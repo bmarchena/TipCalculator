@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="textView_billAmountHint">Enter Amount:</string>
+    <string name="total_label">Total:</string>
+    <string name="tip_label">Tip:</string>
+    <string name="textView_numPeople_txt">How many \nin your party?</string>
+    <string name="radio_no_txt">None</string>
+    <string name="radio_tip_txt">Tip</string>
+    <string name="radio_total_txt">Total</string>
+    <string name="radiogroup_label_txt">Rounding Options:</string>
+    <string name="perPersonLabel_txt">Total Per Person:</string>
+    <string name="share_title">Share</string>
+    <string name="info_title">App Info</string>
+    <string name="info_txt">TipCalculator will allow you to divide a bill\'s total between a maximum of 4 people. Indicate the number of people in your party using the spinner. Rounding options are available using radio buttons.</string>
+
+    <string-array name="spinner_labels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

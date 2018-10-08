@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_textView_default">12dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="seekbar_length">325dp</dimen>
+    <dimen name="perperson_txtsize">14sp</dimen>
+</resources>
